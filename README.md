@@ -9,7 +9,7 @@ https://chrome.google.com/webstore/detail/scripty-javascript-inject/milkbiaeapdd
       
 2) Access twitter via chrome, right-click and scripty-> Create Script.
 
-3) Set Name, onde de Javascript Code, copy and paste de code below:
+3) Set Name, on the Javascript Code, copy and paste de code below:
 
 document.body.style="background-image: url(https://pbs.twimg.com/media/EqbO2MVXEAEuH3s?format=jpg&name=large);"
 
